@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "396547374856",
+    "firebase_url": "https://login-eec7e.firebaseio.com",
+    "project_id": "login-eec7e",
+    "storage_bucket": "login-eec7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396547374856:android:505a4b4657ada3c5e5b6bd",
+        "android_client_info": {
+          "package_name": "app.ionicfirebaseapp.todoproapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1FQGx8FlDbFnEcMijFti1npcOcibqAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396547374856:android:2c9b07c207075d79e5b6bd",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1FQGx8FlDbFnEcMijFti1npcOcibqAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396547374856:android:de2e6996f644b62fe5b6bd",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1FQGx8FlDbFnEcMijFti1npcOcibqAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396547374856-5d7qsna16f0ihufo9lur8igv7sgtiv14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
